@@ -5,7 +5,7 @@ _Chhipa, P.C.*_, _Vashishtha, G.*_, _Settur, J.*_, _Saini, R._, _Shah, M._, _Liw
 \*Indicates equal contributions.
   
 
-Visit Project Website - https://prakashchhipa.github.io/projects/ASTrA/
+Visit Project Website - https://prakashchhipa.github.io/projects/ASTrA
 
 ASTrA addresses the limitations of conventional self-supervised adversarial training (Self-AT) methods, which rely on static heuristic attacks that fail to adapt to diverse data distributions and model dynamics. By introducing a learnable, reinforcement learning-based adversarial attack strategy, ASTrA generates adaptive perturbations that optimize self-supervised representations. This approach improves robustness and generalization across multiple datasets, enabling more effective and sustainable training for adversarially robust models. ASTrA also incorporates mixed contrastive loss to further enhance representation quality, making it a state-of-the-art solution for robust self-supervised learning.
 
