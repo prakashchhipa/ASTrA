@@ -1,6 +1,10 @@
-# ASTrA: Adversarial-Self-Supervised-Training-with-Adaptive-Attacks
-_Chhipa, P.C.*, Vashishtha, G.*, Settur, J.*, Saini, R., Shah, M., Liwicki, M.: ASTrA: Adversarial Self-supervised Training with Adaptive-Attacks. International Conference on Learning Representations. (ECCV 2025)_
-* Indicates equal contributions
+# ASTrA: Adversarial Self-Supervised Training with Adaptive Attacks
+
+_Chhipa, P.C.*_, _Vashishtha, G.*_, _Settur, J.*_, _Saini, R._, _Shah, M._, _Liwicki, M._
+
+**ASTrA**: Adversarial Self-Supervised Training with Adaptive Attacks. International Conference on Learning Representations. *(ECCV 2025)*
+
+\* Indicates equal contributions.
   
 
 Visit Project Website - https://prakashchhipa.github.io/projects/ASTrA/
