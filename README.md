@@ -1,7 +1,9 @@
-# ASTrA---Adversarial-Self-Supervised-Training-with-Adaptive-Attacks
-This repo contains the work our ICLR submission 2025 titled "ASTRA: ADVERSARIAL SELF-SUPERVISED TRAINING WITH ADAPTIVE-ATTACKS"
+# ASTrA: Adversarial-Self-Supervised-Training-with-Adaptive-Attacks
+_Chhipa, P.C.*, Vashishtha, G.*, Settur, J.*, Saini, R., Shah, M., Liwicki, M.: ASTrA: Adversarial Self-supervised Training with Adaptive-Attacks. International Conference on Learning Representations. (ECCV 2025)_
+* Indicates equal contributions
+  
 
-
+Visit Project Website - https://prakashchhipa.github.io/projects/ASTrA/
 
 ![Main Framework](images/MainFigure.png)
 
